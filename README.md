@@ -67,6 +67,8 @@ The result is a coating that:
 ## Washing Resistance
 Field Mantle has been tested on garments washed twice at 30 °C without fabric softener, and after washing, the treated fabric continued to bead water as effectively as on the day of application.
 
+[![Watch the video](https://i.imgur.com/ITtNsF8.jpeg)](https://imgur.com/gallery/water-repellent-wax-that-lasts-through-laundry-Fm36BLY)
+
 ---
 
 ## Field Testing
