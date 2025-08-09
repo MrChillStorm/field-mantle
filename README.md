@@ -88,9 +88,23 @@ Field Mantle is tested in real-world outdoor conditions, including:
 
 ---
 
-## License
+## Understanding Fabric Weave and Water Penetration
 
-[MIT License](LICENSE) – You are free to use, modify, and share this formula and method.
+Fabric consists of woven fibers creating tiny gaps or pores. In most fabrics, these pores are larger than water molecules.
+
+**Why water gets through:**
+When water is pushed by pressure—such as heavy rain, wind-driven moisture, or body movement—it can pass through these pores. Light contact, like splashes or pouring water slowly, is often repelled effectively by a hydrophobic treatment.
+
+**What fabric waxes do:**
+Field Mantle wax fills and coats fibers and gaps, creating a water-repellent barrier. This helps resist water absorption during everyday use, especially against light moisture and splashes. However, under sustained pressure or harsh conditions, water can still penetrate.
+
+**Setting realistic expectations:**
+
+* Wax treatments improve water repellency but don’t guarantee total waterproofing.
+* Tightly woven fabrics perform better with wax treatments.
+* For full waterproofing, specialized membranes or coatings are necessary.
+
+Understanding fabric structure helps explain why Field Mantle balances breathability, durability, and water resistance so well.
 
 ---
 
@@ -99,3 +113,9 @@ Field Mantle is tested in real-world outdoor conditions, including:
 Field Mantle works well on natural fibers like cotton and canvas, as well as poly-cotton blends and some polyester fabrics.
 
 > **Note:** When applying to polyester or synthetic-rich fabrics, reduce the heat gun temperature to avoid melting or damaging the fibers.
+
+---
+
+## License
+
+[MIT License](LICENSE) – You are free to use, modify, and share this formula and method.
