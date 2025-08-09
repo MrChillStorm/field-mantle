@@ -44,6 +44,9 @@ use the Wax Batch Calculator.xlsx included in this repo.
    4. Pour into silicone muffin molds (or other heat-safe molds).
    5. Allow to cool and solidify before storage.
 
+> **Cleanup Note:**
+The wax blend hardens firmly, making cleanup challenging. It’s best to use dedicated cookware—both for melting (double boiler) and stirring—as well as silicone molds for pouring. A metal scraper helps remove most residue, but some will remain.
+
 ---
 
 ## Application
@@ -95,4 +98,4 @@ Field Mantle is tested in real-world outdoor conditions, including:
 
 Field Mantle works well on natural fibers like cotton and canvas, as well as poly-cotton blends and some polyester fabrics.
 
-**Note:** When applying to polyester or synthetic-rich fabrics, reduce the heat gun temperature to avoid melting or damaging the fibers.
+> **Note:** When applying to polyester or synthetic-rich fabrics, reduce the heat gun temperature to avoid melting or damaging the fibers.
