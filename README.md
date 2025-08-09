@@ -28,7 +28,8 @@ The result is a coating that:
 
 > **Safety note:** Always use a double boiler — never melt wax directly over a flame.
 
-For easy calculation of ingredient quantities based on your desired batch size, use the Wax Batch Calculator.xlsx included in this repo.
+For easy calculation of ingredient quantities based on your desired batch size,
+use the Wax Batch Calculator.xlsx included in this repo.
 [![Wax Batch Calculator](https://i.imgur.com/1iYuLrv.jpeg)](./Wax%20Batch%20Calculator.xlsx)
 
 1. **Ingredients** (by weight):
