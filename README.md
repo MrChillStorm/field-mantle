@@ -96,7 +96,7 @@ Fabric consists of woven fibers creating tiny gaps or pores. In most fabrics, th
 When water is pushed by pressure—such as heavy rain, wind-driven moisture, or body movement—it can pass through these pores. Light contact, like splashes or pouring water slowly, is often repelled effectively by a hydrophobic treatment.
 
 **What fabric waxes do:**
-Field Mantle wax fills and coats fibers and gaps, creating a water-repellent barrier. This helps resist water absorption during everyday use, especially against light moisture and splashes. However, under sustained pressure or harsh conditions, water can still penetrate.
+Field Mantle wax fills and coats fibers and gaps, creating a water-repellent barrier. This helps resist water absorption during everyday use, especially against light to moderate rain and splashes. However, under sustained pressure or harsh conditions, water can still penetrate.
 
 **Setting realistic expectations:**
 
