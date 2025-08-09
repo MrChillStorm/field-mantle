@@ -28,6 +28,8 @@ The result is a coating that:
 
 > **Safety note:** Always use a double boiler — never melt wax directly over a flame.
 
+For easy calculation of ingredient quantities based on your desired batch size, use the included [Wax Batch Calculator.xlsx](./Wax%20Batch%20Calculator.xlsx) in this repo.
+
 1. **Ingredients** (by weight):
    - 50% Beeswax
    - 25% Paraffin
