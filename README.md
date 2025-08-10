@@ -114,8 +114,7 @@ Understanding fabric structure helps explain why Field Mantle balances breathabi
 
 Field Mantle works well on natural fibers like cotton and canvas, as well as poly-cotton blends and some polyester fabrics.
 
-> **Note:** When applying to polyester or synthetic-rich fabrics, reduce the heat gun temperature to avoid melting or damaging the fibers.
-
+> **Note:** When applying to polyester or synthetic-rich fabrics, reduce the heat gun temperature to avoid melting or damaging the fibers. Pay special attention to Velcro (hook-and-loop) closures — even a few seconds of excessive heat can soften and fuse the hooks, leaving pockets or flaps with little to no grip.
 ---
 
 ## License
