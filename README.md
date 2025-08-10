@@ -87,6 +87,7 @@ Field Mantle is tested in real-world outdoor conditions, including:
 - Cold and hot weather field exercises
 - Abrasion from packs and gear
 - Multiple wash cycles
+- **Faster post-rain drying:** After an hour in light rain, treated garments typically dry in about 30 minutes indoors, reducing downtime in field conditions.
 
 ---
 
