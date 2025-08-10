@@ -83,11 +83,12 @@ Field Mantle has been tested on garments washed twice at 30 °C without fabric s
 ## Field Testing
 
 Field Mantle is tested in real-world outdoor conditions, including:
+
 - Light to moderate rain
+  - **Faster post-rain drying:** After an hour in light rain, treated garments typically dry indoors within about 30 minutes, reducing downtime in the field.
 - Cold and hot weather field exercises
 - Abrasion from packs and gear
 - Multiple wash cycles
-- **Faster post-rain drying:** After an hour in light rain, treated garments typically dry in about 30 minutes indoors, reducing downtime in field conditions.
 
 ---
 
