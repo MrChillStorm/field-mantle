@@ -115,6 +115,9 @@ Understanding fabric structure helps explain why Field Mantle balances breathabi
 
 Field Mantle works well on natural fibers like cotton and canvas, as well as poly-cotton blends and some polyester fabrics.
 
+**Leather:**
+Compatible with wax treatments, but avoid prolonged, high heat. Do **not** use the sauna method, as excessive heat can dry out and damage leather fibers. First, apply a quality leather conditioner and allow it to absorb fully — this restores natural oils and keeps the leather supple. Then, apply the wax treatment. Use a quick, sweeping pass with a heat gun on a low-to-medium setting to melt and set the wax, keeping the tool moving constantly to avoid overheating.
+
 > **Note:** When applying to polyester or synthetic-rich fabrics, reduce the heat gun temperature to avoid melting or damaging the fibers. Pay special attention to Velcro (hook-and-loop) closures — even a few seconds of excessive heat can soften and fuse the hooks, leaving pockets or flaps with little to no grip.
 ---
 
