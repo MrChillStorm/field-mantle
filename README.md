@@ -45,7 +45,9 @@ use the Wax Batch Calculator.xlsx included in this repo.
    5. Allow to cool and solidify before storage.
 
 > **Cleanup Note:**
-The wax blend hardens firmly, making cleanup challenging. It’s best to use dedicated cookware—both for melting (double boiler) and stirring—as well as silicone molds for pouring. A metal scraper helps remove most residue, but some will remain.
+The wax blend hardens firmly, making cleanup challenging. It’s best to use dedicated cookware—both for melting (double boiler) and stirring—as well as silicone molds for pouring. A stainless steel scourer helps remove most residue, but some will remain.
+
+![Equipment for making a wax batch: silicone muffin mold, double boiler, and chopstick stirrer](https://i.imgur.com/nrsUEDF.jpeg)
 
 ---
 
