@@ -100,21 +100,15 @@ Field Mantle is tested in real-world outdoor conditions, including:
 
 ## Understanding Fabric Weave and Water Penetration
 
-Fabric consists of woven fibers creating tiny gaps or pores. In most fabrics, these pores are larger than water molecules.
+Fabric is made up of woven fibers that create tiny gaps or pores. Typically, these pores are larger than water molecules which allows water to pass through them when under pressure such as heavy rain, wind-driven moisture, or sitting on a wet surface. However, light contact like splashes or pouring water slowly is often effectively repelled by hydrophobic treatments.
 
-**Why water gets through:**
-When water is pushed by pressure—such as heavy rain, wind-driven moisture, or sitting on a wet surface—it can pass through these pores. Light contact, like splashes or pouring water slowly, is often repelled effectively by a hydrophobic treatment.
+**The role of fabric waxes:**
+Field Mantle wax fills and coats the fibers and gaps in the fabric, creating a water-repellent barrier that helps resist water absorption during everyday use, particularly against light to moderate rain and splashes. Nonetheless, under sustained pressure or harsh conditions, water can still seep through.
 
-**What fabric waxes do:**
-Field Mantle wax fills and coats fibers and gaps, creating a water-repellent barrier. This helps resist water absorption during everyday use, especially against light to moderate rain and splashes. However, under sustained pressure or harsh conditions, water can still penetrate.
+**Managing expectations:**
+Wax treatments enhance water repellency but do not guarantee full waterproofing. Tightly woven fabrics perform better with wax treatments. For complete waterproofing, specialized membranes or coatings are necessary.
 
-**Setting realistic expectations:**
-
-* Wax treatments improve water repellency but don’t guarantee total waterproofing.
-* Tightly woven fabrics perform better with wax treatments.
-* For full waterproofing, specialized membranes or coatings are necessary.
-
-Understanding fabric structure helps explain why Field Mantle balances breathability, durability, and water resistance so well.
+Understanding the structure of fabric helps explain why Field Mantle achieves a great balance between breathability, durability, and water resistance.
 
 ---
 
