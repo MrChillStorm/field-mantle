@@ -2,9 +2,7 @@
 
 **High-performance fabric wax for weatherproofing, abrasion resistance, and field conditions.**
 
-Field Mantle is a rub-on wax blend designed for outdoor and tactical fabrics. It delivers lasting water repellency and fiber protection — without relying on synthetic coatings that flake or wash away.
-
-The current release uses a balanced blend of **beeswax, paraffin, and carnauba wax**, optimized for weatherproofing, durability, wash resistance, and dirt repellency.
+Field Mantle is a rub-on wax blend specifically designed for outdoor and tactical fabrics. It offers lasting water repellency and fiber protection without relying on synthetic coatings that may flake or wash away. The formula is a balanced blend of **beeswax, paraffin, and carnauba wax**, which provides excellent weatherproofing, durability, wash resistance, and dirt repellency.
 
 ---
 
