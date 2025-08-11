@@ -80,7 +80,7 @@ A regular oven set to 100 °C with a baking sheet or silicone mat might work for
 ---
 
 ## Washing Resistance
-Field Mantle has been tested on garments washed twice at 30 °C without fabric softener, and after washing, the treated fabric continued to bead water as effectively as on the day of application.
+Field Mantle has undergone testing in which garments were washed twice at a temperature of 30°C without using fabric softener. After these washes, the treated fabric maintained its ability to bead water just as effectively as on the day it was applied.
 
 [![Watch the video](https://i.imgur.com/ITtNsF8.jpeg)](https://imgur.com/gallery/water-repellent-wax-that-lasts-through-laundry-Fm36BLY)
 
