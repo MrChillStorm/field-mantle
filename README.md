@@ -71,6 +71,10 @@ The wax blend hardens into a tough, almost rock-like finish that clings stubborn
 * **Helps the wax harden uniformly for long-lasting performance**
   The sauna provides stable, even heat that fully melts and saturates the wax into the fabric uniformly, preventing uneven buildup. After heating, the wax cools gradually at ambient temperature. This slow cooling avoids rapid temperature changes that could cause cracks or weak spots, resulting in a flexible yet durable coating that protects the fabric during movement and abrasion.
 
+### Alternative Curing Methods
+
+A regular oven set to 100 °C with a baking sheet or silicone mat might work for curing as well. However, due to fire and melting risks, this method is **not recommended** and should only be attempted with caution. Never leave the oven unattended while curing.
+
 ---
 
 ## Washing Resistance
