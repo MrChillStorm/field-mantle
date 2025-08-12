@@ -115,7 +115,7 @@ Understanding the structure of fabric helps explain why Field Mantle achieves a 
 
 ## Fabric Compatibility
 
-Field Mantle works well on various fabrics such as natural fibers like cotton and canvas, poly-cotton blends, and some polyester fabrics. When it comes to leather, there are specific instructions for proper wax treatment application to ensure the best results.
+Field Mantle works well on various fabrics such as natural fibers like cotton, canvas, denim, poly-cotton blends, and some polyester fabrics. When it comes to leather, there are specific instructions for proper wax treatment application to ensure the best results.
 
 To maintain the integrity of your leather piece, apply a quality leather conditioner first to restore natural oils and keep the material supple. Once fully absorbed, proceed with applying the wax treatment. Use a heat gun on a low-to-medium setting, making quick, sweeping passes to melt and set the wax while keeping the tool in constant motion to prevent overheating. Note that waxing will result in a slight darkening of the leather's color. Furthermore, avoid using prolonged, high heat and refrain from the sauna method, as excessive heat can dry out and damage leather fibers.
 
