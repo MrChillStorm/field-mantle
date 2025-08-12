@@ -28,6 +28,7 @@ The result is a coating that:
 
 For easy calculation of ingredient quantities based on your desired batch size,
 use the Wax Batch Calculator.xlsx included in this repo.
+
 [![Wax Batch Calculator](https://i.imgur.com/1iYuLrv.jpeg)](./Wax%20Batch%20Calculator.xlsx)
 
 ![Waxes used in Field Mantle: beeswax, paraffin, and carnauba](https://i.imgur.com/n1PrrBv.jpeg)
